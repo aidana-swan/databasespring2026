@@ -1,0 +1,13 @@
+CREATE TABLE
+INSERT 0 2
+INSERT 0 4
+INSERT 0 3
+INSERT 0 3
+INSERT 0 6
+ student_name  | course_code |         course_name         | grade 
+---------------+-------------+-----------------------------+-------
+ Alice Johnson | CS101       | Introduction to Programming | A
+ Alice Johnson | CS201       | Data Structures             | B+
+ Bob Smith     | CS101       | Introduction to Programming | A-
+ Bob Smith     | MATH101     | Calculus I                  | B
+(4 rows)
