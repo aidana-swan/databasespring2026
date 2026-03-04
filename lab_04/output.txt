@@ -1,0 +1,6 @@
+ name    |          email          | faculty 
+---------+-------------------------+---------
+ Alymbek | alymbek@example.com     | COMSEH
+ Timur   | timur@example.com       | MED
+ Beka    | beka@example.com        | MAT
+(3 rows)
