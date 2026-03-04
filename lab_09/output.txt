@@ -1,0 +1,15 @@
+CREATE TABLE
+CREATE TABLE
+CREATE TABLE
+CREATE TABLE
+CREATE TABLE
+INSERT 0 2
+INSERT 0 2
+INSERT 0 2
+INSERT 0 2
+INSERT 0 2
+             title             | first_name |   last_name    
+-------------------------------+------------+----------------
+ 1984                          | George     | Orwell
+ One Hundred Years of Solitude | Gabriel    | Garcia Marquez
+(2 rows)
